@@ -1,0 +1,14 @@
+release/fin.o
+release/game.o
+release/help.o
+release/ia.o
+release/ia2.o
+release/main.o
+release/mainwindow.o
+release/proc.o
+release/moc_fin.o
+release/moc_game.o
+release/moc_help.o
+release/moc_ia.o
+release/moc_ia2.o
+release/moc_mainwindow.o

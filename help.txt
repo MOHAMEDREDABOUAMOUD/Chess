@@ -1,0 +1,212 @@
+					ARTICLE 1. La nature et les objectifs du jeu d échecs.
+
+1.1 Le jeu d Echecs se joue entre deux adversaires qui déplacent alternativement des pièces sur un
+plateau carré appelé échiquier. Le joueur ayant les pièces blanches commencent la partie. Un joueur
+  a le trait   lorsque son adversaire a terminé son coup.
+1.2 L objectif de chaque joueur est de mettre le roi adverse en   échecs   de telle façon que
+l adversaire n ait pas de coup légal qui puisse éviter la prise du roi au coup suivant. Quand un joueur
+y parvient, on dit qu il   a maté   l adversaire et gagné la partie. L adversaire qui a été maté a perdu
+la partie.
+1.3 Si la position est telle qu aucun des deux joueurs n a la possibilité de mater, la partie est nulle.
+
+					ARTICLE 2. La position initiale des pièces sur l échiquier.
+
+2.1 L échiquier se compose de 64 cases de même surface alternativement claires (les cases
+blanches) et foncées (les cases noires).
+2.2 Au début d une partie, un joueur dispose de 16 pièces claires (les pièces  blanches ) et l autre de
+16 pièces foncées (les pièces telle  noires ).L échiquier est placé entre les joueurs de manière que la
+case d angle à droite de chaque joueur soit blanche.
+Ces pièces sont les suivantes :
+-Un Roi blanc ayant pour symbole usuel : R
+-Une Dame blanche ayant pour symbole usuel : D
+-Deux Tours blanches ayant pour symbole usuel : T
+-Deux Fous blancs ayant pour symbole usuel : F
+-Deux Cavaliers blancs ayant pour symbole usuel : C
+-Huit Pions blancs ayant pour symbole usuel : P
+-Un Roi noir ayant pour symbole usuel : R
+-Une Dame noire ayant pour symbole usuel : D
+-Deux Tours noires ayant pour symbole usuel : T
+-Deux Fous noirs ayant pour symbole usuel : F
+-Deux Cavaliers noirs ayant pour symbole usuel : C
+-Huit Pions noirs ayant pour symbole usuel : P
+2.3 La position initiale des pièces sur l échiquier est la suivante
+
+2.4 Les huit rangées de cases verticales sont appelées  colonnes . Les huit rangées de cases
+horizontales sont appelées  traverses . Une ligne droite de cases de même couleur, se touchant par
+les angles, est appelée  diagonale .
+
+					ARTICLE 3. LE MOUVEMENT DES PIECES.
+
+3.1 Aucune pièce ne peut se déplacer sur une case occupée par une pièce de même couleur. Si une
+pièce se déplace sur une case occupée par une pièce adverse, cette dernière est capturée et retirée de
+l échiquier comme partie intégrante du même coup. Selon les Articles 3.2 - 3.5, on dit qu une pièce
+attaque une case si elle peut éventuellement effectuer une prise sur cette case.
+3.2 a) La dame se déplace sur toute case de la colonne, de la traverse ou des diagonales sur
+lesquelles elle se trouve.
+3.2 b) La tour se déplace sur toute case de la colonne, de la traverse sur lesquelles elle se trouve.
+3.2 c) Le fou se déplace sur toute case de l une ou l autre diagonale sur laquelle il se trouve. En
+effectuant ces mouvements, la dame, la tour ou le fou ne peuvent se déplacer au-dessus d une autre
+pièce.
+3.3 Le cavalier. Le cavalier se déplace sur une des cases la plus proche de celle sur laquelle il se
+trouve, mais pas sur la même colonne, traverse ou diagonale. Il ne passe pas directement au-dessus
+d une case intermédiaire.
+3.4 Le Pion.
+(a) Le pion se déplace en avant sur la case immédiatement inoccupée en face de lui sur la même
+colonne, ou
+(b) à son premier coup il peut avancer de deux cases sur la même colonne à condition qu elles
+soient inoccupées, ou
+(c) il se déplace sur la place occupée par une pièce adverse, située diagonalement en face de lui sur
+la colonne adjacente, et capture ainsi cette pièce.
+
+(d) Un Pion, attaquant la case traversée par un Pion adverse qui a été avancé de deux cases à partir
+de sa position initiale, peut prendre ce Pion comme s il n avait été avancé que d une case. Cette prise
+ne peut avoir lieu qu en réponse immédiate à l avance de deux cases du Pion adverse. Elle s appelle
+la  prise en passant .
+(e) Quand un pion accède à la traverse la plus éloignée de sa position de départ, il doit être échangé,
+comme partie intégrante du même coup, contre une Dame, une Tour, un Fou ou un Cavalier de la
+même couleur. Le joueur ne doit pas limiter son choix aux pièces qui ont été précédemment
+capturées. L échange d un pion contre une autre pièce est appelée  promotion  et la pièce promue
+est immédiatement opérationnelle.
+3.5 Le Roi.
+(a) Le Roi peut se déplacer de deux façons différentes ; soit :
+* I)sur l une des cases adjacentes qui n est pas attaquée par une pièce adverse.
+* II) Par le  roque . C est un mouvement du Roi et de l une des Tours, comptant pour un coup
+de Roi et effectuée de la manière suivante: le Roi est déplacé de deux cases à partir de sa case
+initiale, sur la même traverse et en direction de la Tour; la Tour est ensuite déplacé par-dessus le
+Roi sur la dernière case que celui-ci vient de traverser.
+* (1) Le roque est illégal
+* (a) si le Roi a déjà bougé, ou
+* (b) avec une Tour qui a déjà été déplacée.
+* (2) Le roque est momentanément empêché
+* (a) si la case initiale du Roi ou celle qu il doit traverser ou occuper est attaquée par une
+pièce adverse, ou
+* (b) si une pièce quelconque se trouve entre le Roi et la Tour avec laquelle le roque doit être
+effectué.
+* Le roi est  en échec , s il est attaqué par une ou plusieurs pièces adverses, même si ces
+pièces ne peuvent elles-mêmes bouger. L annonce de l échec n est pas obligatoire. Un joueur ne doit
+pas jouer un coup qui met ou laisse son propre roi en échec.
+
+					ARTICLE 4. LE DEPLACEMENT DES PIECES.
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 5. LA FIN DE LA PARTIE.
+
+5.1 a) La partie est gagnée par le joueur qui a maté le roi adverse avec un coup légal. Ceci met fin
+immédiatement à la partie.
+b) La partie est gagnée par le joueur dont l adversaire déclare qu il abandonne. Ceci met
+immédiatement fin à la partie.
+5.2 La partie est nulle lorsque le joueur ayant le trait n a aucun coup possible et que son roi n est pas
+en échec. On dit alors que la partie se termine par un  pat . Ceci met immédiatement fin à la partie.
+
+5.3 La partie est nulle si les deux joueurs le décident d un commun accord. Ceci met
+immédiatement fin à la partie. (voir l Article 9.1)
+5.4 La partie peut être nulle si une position identique est apparue trois fois sur l échiquier. (voir
+l Article 9.2)
+5.5 La partie peut être nulle si les 50 derniers coups consécutifs ont té joués par chaque joueur sans
+mouvement de pions ni prise de pièces. (voir l Article 9.3)
+
+					ARTICLE 6. LA PENDULE D ECHECS.
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 7. LES POSITIONS ILLEGALES.
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 8. LA NOTATION DES COUPS.
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 9. LA PARTIE NULLE.
+
+9.1 Un joueur peut proposer la nullité après avoir joué un coup sur l échiquier. Il doit le faire avant
+d appuyer sur sa pendule. Une telle offre faite différemment est toujours valable, mais enfreint
+l Article 12.5. Elle est toujours inconditionnelle. Dans les deux cas, l offre ne peut être retirée et
+reste valable jusqu à ce que l adversaire l accepte, la rejette oralement ou en jouant un coup ; ou bien
+jusqu à ce que la partie se termine autrement. L offre de nullité sera noté par chaque joueur sur sa
+feuille de partie et représentée par le signe (=).
+9.2 La partie est nulle, sur demande du joueur ayant le trait, lorsque la même position, pour la
+troisième fois (pas nécessairement consécutivement) :
+a) va apparaître, s il écrit d abord son coup sur sa feuille de partie et déclare à l arbitre son intention
+de jouer ce coup, ou
+b) vient d apparaître.
+Les positions comme en a) et b) sont considérées comme étant les mêmes lorsque, le même joueur
+ayant le trait, les pièces de même nature et de même couleur occupent les mêmes cases et ont toutes
+les mêmes possibilités de jeu.
+Les positions sont différentes, si un pion pouvait avoir été pris en passant, ou si les possibilités de
+roque ne sont plus les mêmes d une position à l autre.
+9.3 La partie est nulle, sur demande du joueur ayant le trait, :
+a) si les 50 derniers coups consécutifs ont été exécutés par chacun des joueurs sans mouvement de
+pion ou de prise de pièce, ou
+b) s il écrit sur sa feuille de partie, et annonce son intention de jouer, le coup ayant pour
+conséquence que les 50 derniers coups consécutifs seront alors exécutés par chacun des joueurs
+sans mouvement de pion ni prise de pièce.
+
+9.4 Si un joueur exécute un coup, sans avoir demandé la nullité comme le stipulent les Articles 9.2
+ou 9.3, il perd ce droit pendant ce coup.
+9.5 Si un joueur réclame la nullité en application de l Article 9.2 ou 9.3, il arrêtera immédiatement
+les deux pendules. Il n a pas le droit de retirer sa demande.
+a) Si la demande s avère fondée, la partie est déclarée immédiatement nulle.
+b) Si la demande s avère injustifiée, l arbitre enlèvera, jusqu à un maximum de trois minutes, la
+moitié du temps restant à la pendule du demandeur, et ajoutera trois minutes à celle de son
+adversaire. La partie continuera alors et le coup proposé devra être joué.
+9.6 La partie est nulle lorsque dans une même position, un mat ne peut se produire par aucune suite
+de coups légaux, même par le jeu le plus médiocre. Cela met immédiatement fin à la partie.
+
+					ARTICLE 11. LE SCORE.
+
+11.1 Un joueur qui gagne sa partie marque un point (1), un joueur qui perd sa partie ne marque pas
+de point (0) et un joueur qui annule sa partie marque un demi point (1/2).
+
+					ARTICLE 12. LA CONDUITE DES JOUEURS.
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 13. LE ROLE DE L ARBITRE.(voir le préambule)
+
+... pas pertinent dans le cadre du projet.
+
+					ARTICLE 14. La F.I.D.E..
+
+... pas pertinent dans le cadre du projet.
+
+ANNEXE.
+
+(...)
+... pas pertinent dans le cadre du projet.
+(...)
+					ARTICLE 19. ANNEXE E.  LA NOTATION ALGEBRIQUE .
+
+La FIDE ne reconnaît pour ses tournois et pour ses matchs qu un seul système, la notation
+algébrique, et préconise également l utilisation de ce système dans les livres d échecs et dans la
+presse échiquéènne. Les feuilles de parties utilisant un autre système que la notation algébrique ne
+peuvent pas être utilisées comme preuve dans les cas où ces feuilles sont normalement utilisées. Un
+arbitre qui s aperçoit qu un joueur utilise un autre système de notation que le système algébrique
+devra prévenir le joueur de cette obligation.
+19.1 Chaque pièce est désignée par la première lettre (lettre majuscule) de son nom. Exemple R=
+roi (ou K en Anglais), D=dame (ou Q en Anglais), T=tour (ou R en Anglais), F=fou (ou B en
+Anglais), C=cavalier (ou N en Anglais).
+
+19.2 Pour la première lettre du nom de la pièce, chaque pays a le droit d utiliser la première lettre du
+nom utilisé dans son pays. Exemples: B=bishop ( le fou en Anglais), L=loper (le foue en
+Hollandais). Dans la presse, l utilisation de dessins pour les pièces est recommandée.
+19.3 Les pions ne sont pas désignés par leur première lettre, mais au contraire, se reconnaissent par
+l absence de celle-ci; exemple: e5, d4, a5.
+19.4 Les 8 colonnes (de gauche à droite pour les Blancs et de droite à gauche pour les Noirs) sont
+désignées par les lettres minuscules a,b,c,d,e,f,g et h, respectivement.
+19.5 Les 8 traverses (du bas vers le haut pour les Blancs et du haut vers le bas pour les Noirs) sont
+numérotées 1, 2, 3, 4, 5, 6, 7, 8, respectivement. En conséquence, au départ, les pièces et les pions
+blancs sont placés sur la première et deuxième traverses; les pions et les pièces noires sont placés
+sur la septième et la huitième traverses.
+19.6 Suite aux règles précédentes, chacune des 64 cases est toujours repérée par l unique
+combinaison d une lettre et d un nombre.
+* 8: a8 b8 ç8 d8 e8 f8 g8 h8
+* 7: a7 b7 ç7 d7 e7 f7 g7 h7
+* 6: a6 b6 ç6 d6 e6 f6 g6 h6
+* 5: a5 b5 ç5 d5 e5 f5 g5 h5
+* 4: a4 b4 ç4 d4 e4 f4 g4 h4
+* 3: a3 b3 ç3 d3 e3 f3 g3 h3
+* 2: a2 b2 ç2 d2 e2 f2 g2 h2
+* 1: a1 b1 ç1 d1 e1 f1 g1 h1
+* ---a--b--ç--d--e--f--g--h
